@@ -1,5 +1,10 @@
 # ROOT
 
+khusus pannel ges.
+
+https://console.cloud.google.com/?pli=1
+
+
 sudo apt install nodejs -y
 
 sudo apt install npm -y
